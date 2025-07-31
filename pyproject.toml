@@ -1,11 +1,12 @@
 [project]
 name = "fast-healthchecks"
-version = "0.2.2"
+version = "0.2.3"
 description = "FastHealthchecks"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [
     {name = "Vladislav Shepilov", email = "shepilov.v@protonmail.com"},
+    {name = "Denis Shipilov", email = "shipilovds@gmail.com"},
 ]
 maintainers = [
     {name = "Vladislav Shepilov", email = "shepilov.v@protonmail.com"},
